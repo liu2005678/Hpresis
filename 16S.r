@@ -12,6 +12,7 @@ system("mkdir -p pile2cns")
 system("mkdir -p index")
 
 # to allow better aligning of reads that mapped to the two terminals of 16 S, 100 bp surrounding sequence (upstream 100 bp and dowstream 100 bp) were included in the 16S.fa
+# see 16S.gb for further information
 system("bowtie2-build -f 16S.fa index/16s")
 
 # align reads to reference 23S sequence, keep aligned reads only (--no-unal) 
