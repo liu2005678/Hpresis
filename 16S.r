@@ -33,11 +33,11 @@ samtools_cmds=samtools_flow2(paste0("align/",base,"_16S"))
 # make pileup file
 pileup_cmds=paste0("samtools mpileup -f 16S.fa align/",base,"_16S_sorted.bam > pile2cns/",base,"_16S.mpileup") 
 # snp and indel calling  A minimal coverage of 100 and variant supporting reads of more than 10 was set (--min-coverage 100,  --min-reads2 10)
-pile2snp_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2snp pile2cns/",base,"_16S.mpileup --min-coverage 100,  --min-reads2 10 >",
+pile2snp_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2snp pile2cns/",base,"_16S.mpileup --min-coverage 100  --min-reads2 10 >",
                      "pile2cns/",base,"_16S.snp")
-pile2indel_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2indel pile2cns/",base,"_16S.mpileup --min-coverage 100,  --min-reads2 10 >",
+pile2indel_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2indel pile2cns/",base,"_16S.mpileup --min-coverage 100  --min-reads2 10 >",
                        "pile2cns/",base,"_16S.indel")
-pile2cns_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2cns pile2cns/",base,"_16S.mpileup --min-coverage 100,  --min-reads2 10 >",
+pile2cns_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2cns pile2cns/",base,"_16S.mpileup --min-coverage 100  --min-reads2 10 >",
                      "pile2cns/",base,"_16S.cns")
 cmds=c(bowtie2_cmds,samtools_cmds,pileup_cmds,pile2snp_cmds,pile2indel_cmds,pile2cns_cmds)
 # excute commands generated
