@@ -28,7 +28,7 @@ samtools_flow2 =function(files_base,p=24,rm=TRUE){
 samtools_cmds=samtools_flow2(paste0("align/",base,"_23S"))
 
 # make pileup file
-pileup_cmds=paste0("samtools mpileup -f 23S.fa align/",base,"_23S_sorted.bam > pile2cns/",base,"_23S.mpileup") 
+pileup_cmds=paste0("samtools mpileup -f 23S_5S.fa align/",base,"_23S_sorted.bam > pile2cns/",base,"_23S.mpileup") 
 # snp and indel calling  A minimal coverage of 100 and variant supporting reads of more than 10 was set (--min-coverage 100  --min-reads2 10)
 pile2snp_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup2snp pile2cns/",base,"_23S.mpileup --min-coverage 100  --min-reads2 10 >",
                      "pile2cns/",base,"_16S.snp")
@@ -36,3 +36,4 @@ pile2indel_cmds=paste0("java -jar /home/logen/programs/VarScan.v2.3.9.jar pileup
                        "pile2cns/",base,"_23S.indel")
 cmds=c(bowtie2_cmds,samtools_cmds,pileup_cmds,pile2snp_cmds,pile2indel_cmds)
 for(i in 1:length(cmds)){system(cmds[i])}
+
