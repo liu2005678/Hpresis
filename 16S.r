@@ -1,5 +1,6 @@
 # finding SNPs of 16S
-setwd("/media/logen/sd16b/Hp/16S/")  # set work directory
+# set work directory, all generaed files would be stored under this directory, including 16S.fa
+setwd("/media/logen/sd16b/Hp/16S/")  
 cleandatadir="/media/logen/sdc/h.pylori/2ndseq_cleandata/"   #directory for clean illumina data 
 strains=dir(cleandatadir)
 strainsr1=strains[grep("hp\\d+.clean.r1.fq.gz",strains)]
