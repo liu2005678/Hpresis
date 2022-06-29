@@ -13,17 +13,17 @@ system("mkdir -p index")
 
 # to allow better aligning of reads that mapped to the two terminals of 16 S, 100 bp surrounding sequence (upstream 100 bp and dowstream 100 bp) were included in the 16S.fa
 # see 16S.gb for further information
-system("bowtie2-build -f 16S.fa index/16s")
+system("bowtie2-build -f 16S.fa index/16S")
 
 # align reads to reference 23S sequence, keep aligned reads only (--no-unal) 
 # the CPU threads used is 24 (-p 24) 
-bowtie2_cmds=paste0("bowtie2 -p 24 --no-unal -x index/16s -1 ", cleandatadir, strainsr1, " -2 ", cleandatadir, strainsr2, " -S align/",
+bowtie2_cmds=paste0("bowtie2 -p 24 --no-unal -x index/16S -1 ", cleandatadir, strainsr1, " -2 ", cleandatadir, strainsr2, " -S align/",
                   base, "_16S.sam" )
 # sort the aligned reads
 samtools_flow2 =function(files_base,p=24,rm=TRUE){
   cmd6=c();cmd8=c()
   cmd6=paste0("samtools view  -@ ", p," -u ", files_base,".sam ",
-              "| samtols sort -@ ",p, " -o ",files_base,"_sorted.bam -")
+              "| samtools sort -@ ",p, " -o ",files_base,"_sorted.bam -")
   cmd8=paste0("samtools index ",files_base, "_sorted.bam")
   cmd8=c(cmd6,cmd8)#,cmd9)
   return(cmd8)
