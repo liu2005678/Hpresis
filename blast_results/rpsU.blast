@@ -1,0 +1,1436 @@
+TBLASTN 2.10.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: User specified sequence set (Input: ../spades/strain104.fa).
+           285,618 sequences; 271,236,917 total letters
+
+
+
+Query= rpsU
+
+Length=70
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+Hpfe093_NODE_4_length_106291_cov_253.234865                           109        6e-29
+Hpfe105_NODE_27_length_11170_cov_358.058235                           106        5e-28
+Hpfe022_NODE_9_length_27177_cov_431.621033                            106        5e-28
+Hpfe0004_NODE_14_length_44611_cov_385.842255                          106        5e-28
+Hpfe039_NODE_5_length_67913_cov_444.263017                            106        5e-28
+Hpfe057_NODE_6_length_71581_cov_267.856959                            106        5e-28
+Hpfe053_NODE_5_length_72511_cov_255.827691                            106        5e-28
+Hpfe005_NODE_6_length_78558_cov_309.612543                            106        5e-28
+Hpfe126_NODE_4_length_96757_cov_379.172000                            106        5e-28
+Hpfe054_NODE_5_length_103352_cov_264.172772                           106        5e-28
+Hpfe049_NODE_5_length_103363_cov_287.454040                           106        5e-28
+Hpfe084_NODE_4_length_103698_cov_284.270119                           106        5e-28
+Hpfe119_NODE_14_length_103874_cov_456.596934                          106        5e-28
+Hpfe122_NODE_4_length_104439_cov_459.044940                           106        5e-28
+Hpfe040_NODE_5_length_104797_cov_390.340288                           106        5e-28
+Hpfe0011_NODE_4_length_105500_cov_328.192273                          106        5e-28
+Hpfe083_NODE_5_length_105780_cov_429.234998                           106        5e-28
+Hpfe019_NODE_5_length_114122_cov_469.251795                           106        5e-28
+Hpfe048_NODE_5_length_120649_cov_300.708730                           106        5e-28
+Hpfe0003_NODE_4_length_122479_cov_420.945646                          106        5e-28
+Hpfe023_NODE_3_length_123008_cov_382.041649                           106        5e-28
+Hpfe097_NODE_3_length_123155_cov_269.562716                           106        5e-28
+Hpfe029_NODE_3_length_123584_cov_359.165845                           106        5e-28
+Hpfe079_NODE_2_length_123804_cov_295.872219                           106        5e-28
+Hpfe088_NODE_3_length_123866_cov_432.735130                           106        5e-28
+Hpfe086_NODE_6_length_123931_cov_325.519014                           106        5e-28
+Hpfe118_NODE_4_length_124677_cov_394.070530                           106        5e-28
+Hpfe055_NODE_3_length_125511_cov_340.423769                           106        5e-28
+Hpfe0002_NODE_3_length_125930_cov_268.743653                          106        5e-28
+Hpfe036_NODE_2_length_144868_cov_319.808821                           106        5e-28
+Hpfe0016_NODE_40_length_14745_cov_337.651214                          106        6e-28
+Hpfe090_NODE_12_length_40666_cov_381.428121                           106        6e-28
+Hpfe085_NODE_11_length_42403_cov_251.587700                           106        6e-28
+Hpfe024_NODE_14_length_42977_cov_400.880000                           106        6e-28
+Hpfe100_NODE_11_length_48841_cov_244.850402                           106        6e-28
+Hpfe087_NODE_11_length_49090_cov_347.214351                           106        6e-28
+Hpfe035_NODE_10_length_55272_cov_369.602373                           106        6e-28
+Hpfe073_NODE_11_length_56088_cov_315.763939                           106        6e-28
+Hpfe098_NODE_9_length_56687_cov_333.004663                            106        6e-28
+Hpfe077_NODE_6_length_63809_cov_245.352900                            106        6e-28
+Hpfe076_NODE_8_length_67259_cov_347.766559                            106        6e-28
+Hpfe059_NODE_5_length_72613_cov_411.759526                            106        6e-28
+Hpfe092_NODE_6_length_73430_cov_409.311603                            106        6e-28
+Hpfe068_NODE_5_length_73548_cov_471.218113                            106        6e-28
+Hpfe032_NODE_6_length_73691_cov_319.827465                            106        6e-28
+Hpfe099_NODE_8_length_73882_cov_249.068369                            106        6e-28
+Hpfe052_NODE_4_length_74514_cov_328.078147                            106        6e-28
+Hpfe096_NODE_5_length_74527_cov_350.034560                            106        6e-28
+Hpfe095_NODE_7_length_74727_cov_381.742398                            106        6e-28
+Hpfe109_NODE_5_length_85046_cov_313.739211                            106        6e-28
+Hpfe091_NODE_4_length_86368_cov_348.866475                            106        6e-28
+Hpfe112_NODE_4_length_97931_cov_302.135436                            106        6e-28
+Hpfe0015_NODE_4_length_100693_cov_315.047319                          106        6e-28
+Hpfe123_NODE_4_length_102973_cov_302.419676                           106        6e-28
+Hpfe0020_NODE_4_length_102974_cov_318.168032                          106        6e-28
+Hpfe102_NODE_6_length_103180_cov_306.890973                           106        6e-28
+Hpfe060_NODE_4_length_103898_cov_301.576916                           106        6e-28
+Hpfe061_NODE_4_length_104608_cov_328.230152                           106        6e-28
+Hpfe101_NODE_5_length_104685_cov_326.481378                           106        6e-28
+Hpfe0013_NODE_5_length_104970_cov_301.424270                          106        6e-28
+Hpfe0006_NODE_5_length_105079_cov_337.867126                          106        6e-28
+Hpfe082_NODE_6_length_105605_cov_203.338545                           106        6e-28
+Hpfe107_NODE_5_length_105927_cov_315.135484                           106        6e-28
+Hpfe124_NODE_5_length_111737_cov_488.544609                           106        6e-28
+Hpfe0012_NODE_3_length_114126_cov_283.780919                          106        6e-28
+Hpfe114_NODE_3_length_114645_cov_490.689748                           106        6e-28
+Hpfe0007_NODE_3_length_115270_cov_305.178891                          106        6e-28
+Hpfe104_NODE_4_length_121417_cov_284.449596                           106        6e-28
+Hpfe064_NODE_3_length_121480_cov_296.775269                           106        6e-28
+Hpfe075_NODE_4_length_122469_cov_279.935216                           106        6e-28
+Hpfe0008_NODE_4_length_122980_cov_230.174626                          106        6e-28
+Hpfe106_NODE_4_length_123033_cov_437.819456                           106        6e-28
+Hpfe033_NODE_2_length_123881_cov_363.140092                           106        6e-28
+Hpfe065_NODE_3_length_124020_cov_420.820950                           106        6e-28
+Hpfe028_NODE_3_length_124158_cov_363.545619                           106        6e-28
+Hpfe072_NODE_4_length_124610_cov_313.860406                           106        6e-28
+Hpfe058_NODE_2_length_124860_cov_781.637531                           106        6e-28
+Hpfe070_NODE_4_length_124904_cov_304.466902                           106        6e-28
+Hpfe069_NODE_4_length_124902_cov_317.399223                           106        6e-28
+Hpfe127_NODE_4_length_125245_cov_332.172656                           106        6e-28
+Hpfe066_NODE_4_length_125386_cov_537.317790                           106        6e-28
+Hpfe027_NODE_4_length_128511_cov_322.957620                           106        6e-28
+Hpfe113_NODE_3_length_130060_cov_288.891086                           106        6e-28
+Hpfe089_NODE_4_length_137969_cov_313.186951                           106        6e-28
+Hpfe125_NODE_2_length_143930_cov_475.670087                           106        6e-28
+Hpfe120_NODE_3_length_144075_cov_417.567793                           106        6e-28
+Hpfe0001_NODE_3_length_144423_cov_241.506110                          106        6e-28
+Hpfe037_NODE_3_length_146235_cov_241.203951                           106        6e-28
+Hpfe063_NODE_4_length_146307_cov_340.905341                           106        6e-28
+Hpfe094_NODE_2_length_148350_cov_393.526967                           106        6e-28
+Hpfe080_NODE_2_length_157828_cov_648.898276                           106        6e-28
+Hpfe078_NODE_3_length_161524_cov_418.015702                           106        6e-28
+Hpfe115_NODE_4_length_105099_cov_293.662985                           106        7e-28
+Hpfe062_NODE_4_length_159789_cov_382.534587                           106        8e-28
+Hpfe074_NODE_4_length_127916_cov_292.854551                           106        8e-28
+Hpfe0021_NODE_2_length_187909_cov_331.394757                          106        8e-28
+Hpfe110_NODE_6_length_122472_cov_300.690772                           105        1e-27
+Hpfe067_NODE_4_length_74896_cov_336.645411                            105        1e-27
+Hpfe081_NODE_892_length_253_cov_1.051136                              97.1       1e-27
+Hpfe056_NODE_4_length_111506_cov_435.281067                           105        2e-27
+Hpfe108_NODE_3_length_125206_cov_282.266325                           105        2e-27
+Hpfe010_NODE_2_length_164645_cov_264.841494                           105        2e-27
+Hpfe103_NODE_4_length_104253_cov_301.393210                           104        2e-27
+Hpfe081_NODE_3_length_122509_cov_408.888036                           104        2e-27
+Hpfe038_NODE_3_length_166467_cov_604.635128                           104        3e-27
+Hpfe061_NODE_1186_length_257_cov_1.027778                             95.1       8e-27
+Hpfe028_NODE_1425_length_237_cov_0.912500                             40.0       4e-05
+
+
+> Hpfe093_NODE_4_length_106291_cov_253.234865
+Length=106291
+
+ Score = 109 bits (273),  Expect = 6e-29, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISA+KK+LKRLYMLRRYESRL
+Sbjct  67794  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISARKKILKRLYMLRRYESRL  68003
+
+
+> Hpfe105_NODE_27_length_11170_cov_358.058235
+Length=11170
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1     MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+             MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  9576  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  9785
+
+
+> Hpfe022_NODE_9_length_27177_cov_431.621033
+Length=27177
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  15128  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  15337
+
+
+> Hpfe0004_NODE_14_length_44611_cov_385.842255
+Length=44611
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1     MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+             MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  7884  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  8093
+
+
+> Hpfe039_NODE_5_length_67913_cov_444.263017
+Length=67913
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  40786  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  40995
+
+
+> Hpfe057_NODE_6_length_71581_cov_267.856959
+Length=71581
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  34568  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  34359
+
+
+> Hpfe053_NODE_5_length_72511_cov_255.827691
+Length=72511
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  35671  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  35462
+
+
+> Hpfe005_NODE_6_length_78558_cov_309.612543
+Length=78558
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  11753  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  11544
+
+
+> Hpfe126_NODE_4_length_96757_cov_379.172000
+Length=96757
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  38384  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  38175
+
+
+> Hpfe054_NODE_5_length_103352_cov_264.172772
+Length=103352
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  36524  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36315
+
+
+> Hpfe049_NODE_5_length_103363_cov_287.454040
+Length=103363
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  67743  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  67952
+
+
+> Hpfe084_NODE_4_length_103698_cov_284.270119
+Length=103698
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  36829  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36620
+
+
+> Hpfe119_NODE_14_length_103874_cov_456.596934
+Length=103874
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  37060  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36851
+
+
+> Hpfe122_NODE_4_length_104439_cov_459.044940
+Length=104439
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  66393  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  66602
+
+
+> Hpfe040_NODE_5_length_104797_cov_390.340288
+Length=104797
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  67745  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  67954
+
+
+> Hpfe0011_NODE_4_length_105500_cov_328.192273
+Length=105500
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  67401  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  67610
+
+
+> Hpfe083_NODE_5_length_105780_cov_429.234998
+Length=105780
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  35431  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  35222
+
+
+> Hpfe019_NODE_5_length_114122_cov_469.251795
+Length=114122
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  77254  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  77045
+
+
+> Hpfe048_NODE_5_length_120649_cov_300.708730
+Length=120649
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  85010  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  85219
+
+
+> Hpfe0003_NODE_4_length_122479_cov_420.945646
+Length=122479
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  87102  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  87311
+
+
+> Hpfe023_NODE_3_length_123008_cov_382.041649
+Length=123008
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  37177  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36968
+
+
+> Hpfe097_NODE_3_length_123155_cov_269.562716
+Length=123155
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  36903  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36694
+
+
+> Hpfe029_NODE_3_length_123584_cov_359.165845
+Length=123584
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  37663  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  37454
+
+
+> Hpfe079_NODE_2_length_123804_cov_295.872219
+Length=123804
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  86988  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  87197
+
+
+> Hpfe088_NODE_3_length_123866_cov_432.735130
+Length=123866
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  87167  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  87376
+
+
+> Hpfe086_NODE_6_length_123931_cov_325.519014
+Length=123931
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  37773  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  37564
+
+
+> Hpfe118_NODE_4_length_124677_cov_394.070530
+Length=124677
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  87113  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  87322
+
+
+> Hpfe055_NODE_3_length_125511_cov_340.423769
+Length=125511
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  38489  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  38280
+
+
+> Hpfe0002_NODE_3_length_125930_cov_268.743653
+Length=125930
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1     MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+             MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  7798  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  8007
+
+
+> Hpfe036_NODE_2_length_144868_cov_319.808821
+Length=144868
+
+ Score = 106 bits (265),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  67027  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  67236
+
+
+> Hpfe0016_NODE_40_length_14745_cov_337.651214
+Length=14745
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  12248  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  12039
+
+
+> Hpfe090_NODE_12_length_40666_cov_381.428121
+Length=40666
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35217  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35008
+
+
+> Hpfe085_NODE_11_length_42403_cov_251.587700
+Length=42403
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1     MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+             MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  5444  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  5653
+
+
+> Hpfe024_NODE_14_length_42977_cov_400.880000
+Length=42977
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35142  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  34933
+
+
+> Hpfe100_NODE_11_length_48841_cov_244.850402
+Length=48841
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  14900  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  14691
+
+
+> Hpfe087_NODE_11_length_49090_cov_347.214351
+Length=49090
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  12240  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  12031
+
+
+> Hpfe035_NODE_10_length_55272_cov_369.602373
+Length=55272
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  18023  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  18232
+
+
+> Hpfe073_NODE_11_length_56088_cov_315.763939
+Length=56088
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  18036  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  18245
+
+
+> Hpfe098_NODE_9_length_56687_cov_333.004663
+Length=56687
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37920  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37711
+
+
+> Hpfe077_NODE_6_length_63809_cov_245.352900
+Length=63809
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  26989  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  26780
+
+
+> Hpfe076_NODE_8_length_67259_cov_347.766559
+Length=67259
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  18204  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  18413
+
+
+> Hpfe059_NODE_5_length_72613_cov_411.759526
+Length=72613
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35853  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35644
+
+
+> Hpfe092_NODE_6_length_73430_cov_409.311603
+Length=73430
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36617  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36408
+
+
+> Hpfe068_NODE_5_length_73548_cov_471.218113
+Length=73548
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36744  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36535
+
+
+> Hpfe032_NODE_6_length_73691_cov_319.827465
+Length=73691
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36874  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36665
+
+
+> Hpfe099_NODE_8_length_73882_cov_249.068369
+Length=73882
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36755  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36964
+
+
+> Hpfe052_NODE_4_length_74514_cov_328.078147
+Length=74514
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37694  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37485
+
+
+> Hpfe096_NODE_5_length_74527_cov_350.034560
+Length=74527
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37795  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37586
+
+
+> Hpfe095_NODE_7_length_74727_cov_381.742398
+Length=74727
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36812  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37021
+
+
+> Hpfe109_NODE_5_length_85046_cov_313.739211
+Length=85046
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1     MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+             MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  7622  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  7831
+
+
+> Hpfe091_NODE_4_length_86368_cov_348.866475
+Length=86368
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37637  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37428
+
+
+> Hpfe112_NODE_4_length_97931_cov_302.135436
+Length=97931
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  12249  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  12040
+
+
+> Hpfe0015_NODE_4_length_100693_cov_315.047319
+Length=100693
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35892  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35683
+
+
+> Hpfe123_NODE_4_length_102973_cov_302.419676
+Length=102973
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35365  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35156
+
+
+> Hpfe0020_NODE_4_length_102974_cov_318.168032
+Length=102974
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  67578  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  67787
+
+
+> Hpfe102_NODE_6_length_103180_cov_306.890973
+Length=103180
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35539  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35330
+
+
+> Hpfe060_NODE_4_length_103898_cov_301.576916
+Length=103898
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35785  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35576
+
+
+> Hpfe061_NODE_4_length_104608_cov_328.230152
+Length=104608
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  67698  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  67907
+
+
+> Hpfe101_NODE_5_length_104685_cov_326.481378
+Length=104685
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36975  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36766
+
+
+> Hpfe0013_NODE_5_length_104970_cov_301.424270
+Length=104970
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37384  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37175
+
+
+> Hpfe0006_NODE_5_length_105079_cov_337.867126
+Length=105079
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  66762  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  66971
+
+
+> Hpfe082_NODE_6_length_105605_cov_203.338545
+Length=105605
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37856  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37647
+
+
+> Hpfe107_NODE_5_length_105927_cov_315.135484
+Length=105927
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  38268  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  38059
+
+
+> Hpfe124_NODE_5_length_111737_cov_488.544609
+Length=111737
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87132  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87341
+
+
+> Hpfe0012_NODE_3_length_114126_cov_283.780919
+Length=114126
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87170  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87379
+
+
+> Hpfe114_NODE_3_length_114645_cov_490.689748
+Length=114645
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36816  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37025
+
+
+> Hpfe0007_NODE_3_length_115270_cov_305.178891
+Length=115270
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36802  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37011
+
+
+> Hpfe104_NODE_4_length_121417_cov_284.449596
+Length=121417
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  67788  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  67997
+
+
+> Hpfe064_NODE_3_length_121480_cov_296.775269
+Length=121480
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35787  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35578
+
+
+> Hpfe075_NODE_4_length_122469_cov_279.935216
+Length=122469
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  86864  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87073
+
+
+> Hpfe0008_NODE_4_length_122980_cov_230.174626
+Length=122980
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35852  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  35643
+
+
+> Hpfe106_NODE_4_length_123033_cov_437.819456
+Length=123033
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  85726  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  85935
+
+
+> Hpfe033_NODE_2_length_123881_cov_363.140092
+Length=123881
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87109  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87318
+
+
+> Hpfe065_NODE_3_length_124020_cov_420.820950
+Length=124020
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36897  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36688
+
+
+> Hpfe028_NODE_3_length_124158_cov_363.545619
+Length=124158
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37069  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36860
+
+
+> Hpfe072_NODE_4_length_124610_cov_313.860406
+Length=124610
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37311  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37102
+
+
+> Hpfe058_NODE_2_length_124860_cov_781.637531
+Length=124860
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  86502  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  86711
+
+
+> Hpfe070_NODE_4_length_124904_cov_304.466902
+Length=124904
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87035  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87244
+
+
+> Hpfe069_NODE_4_length_124902_cov_317.399223
+Length=124902
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87033  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87242
+
+
+> Hpfe127_NODE_4_length_125245_cov_332.172656
+Length=125245
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37575  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37366
+
+
+> Hpfe066_NODE_4_length_125386_cov_537.317790
+Length=125386
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  89496  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  89705
+
+
+> Hpfe027_NODE_4_length_128511_cov_322.957620
+Length=128511
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  38387  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  38178
+
+
+> Hpfe113_NODE_3_length_130060_cov_288.891086
+Length=130060
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  86380  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  86589
+
+
+> Hpfe089_NODE_4_length_137969_cov_313.186951
+Length=137969
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1       MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+               MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  125875  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  126084
+
+
+> Hpfe125_NODE_2_length_143930_cov_475.670087
+Length=143930
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  66729  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  66938
+
+
+> Hpfe120_NODE_3_length_144075_cov_417.567793
+Length=144075
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37480  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37271
+
+
+> Hpfe0001_NODE_3_length_144423_cov_241.506110
+Length=144423
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  67742  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  67951
+
+
+> Hpfe037_NODE_3_length_146235_cov_241.203951
+Length=146235
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  78483  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  78274
+
+
+> Hpfe063_NODE_4_length_146307_cov_340.905341
+Length=146307
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  78532  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  78323
+
+
+> Hpfe094_NODE_2_length_148350_cov_393.526967
+Length=148350
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  71135  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  71344
+
+
+> Hpfe080_NODE_2_length_157828_cov_648.898276
+Length=157828
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  65087  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  65296
+
+
+> Hpfe078_NODE_3_length_161524_cov_418.015702
+Length=161524
+
+ Score = 106 bits (265),  Expect = 6e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  66852  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  67061
+
+
+> Hpfe115_NODE_4_length_105099_cov_293.662985
+Length=105099
+
+ Score = 106 bits (264),  Expect = 7e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37246  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  37037
+
+
+> Hpfe062_NODE_4_length_159789_cov_382.534587
+Length=159789
+
+ Score = 106 bits (264),  Expect = 8e-28, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEK KKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  66902  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKCKKQKISAKKKVLKRLYMLRRYESRL  67111
+
+
+> Hpfe074_NODE_4_length_127916_cov_292.854551
+Length=127916
+
+ Score = 106 bits (264),  Expect = 8e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  36777  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  36986
+
+
+> Hpfe0021_NODE_2_length_187909_cov_331.394757
+Length=187909
+
+ Score = 106 bits (264),  Expect = 8e-28, Method: Compositional matrix adjust.
+ Identities = 70/70 (100%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +1
+
+Query  1       MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+               MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL
+Sbjct  100948  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYMLRRYESRL  101157
+
+
+> Hpfe110_NODE_6_length_122472_cov_300.690772
+Length=122472
+
+ Score = 105 bits (263),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPG+KVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  86976  MPGVKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87185
+
+
+> Hpfe067_NODE_4_length_74896_cov_336.645411
+Length=74896
+
+ Score = 105 bits (263),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRAR+FFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  36731  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARKFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  36940
+
+
+> Hpfe081_NODE_892_length_253_cov_1.051136
+Length=253
+
+ Score = 97.1 bits (240),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 63/70 (90%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1    MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+            MPGIKVREGDA DEAYRRFKKQTDRNLVVTECRARRFFES TEKRKKQK SAKKK+LKRLYMLR Y S L
+Sbjct  229  MPGIKVREGDAVDEAYRRFKKQTDRNLVVTECRARRFFESNTEKRKKQKNSAKKKILKRLYMLRHYVSSL  20
+
+
+> Hpfe056_NODE_4_length_111506_cov_435.281067
+Length=111506
+
+ Score = 105 bits (261),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 70/70 (100%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLY+LRRYESRL
+Sbjct  73458  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEKRKKQKISAKKKVLKRLYILRRYESRL  73667
+
+
+> Hpfe108_NODE_3_length_125206_cov_282.266325
+Length=125206
+
+ Score = 105 bits (261),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECR RRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  86925  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRVRRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87134
+
+
+> Hpfe010_NODE_2_length_164645_cov_264.841494
+Length=164645
+
+ Score = 105 bits (261),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECR RRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  70484  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRVRRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  70693
+
+
+> Hpfe103_NODE_4_length_104253_cov_301.393210
+Length=104253
+
+ Score = 104 bits (260),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFES TEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  37395  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESNTEKRKKQKISAKKKILKRLYMLRRYESRL  37186
+
+
+> Hpfe081_NODE_3_length_122509_cov_408.888036
+Length=122509
+
+ Score = 104 bits (260),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = -3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFES TEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  35471  MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESNTEKRKKQKISAKKKILKRLYMLRRYESRL  35262
+
+
+> Hpfe038_NODE_3_length_166467_cov_604.635128
+Length=166467
+
+ Score = 104 bits (260),  Expect = 3e-27, Method: Compositional matrix adjust.
+ Identities = 68/70 (97%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+ Frame = +3
+
+Query  1      MPGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+              MPGIKVREGDAFDEAYRRFKKQTDRNLVV ECRARRFFESKTEKRKKQKISAKKK+LKRLYMLRRYESRL
+Sbjct  87177  MPGIKVREGDAFDEAYRRFKKQTDRNLVVIECRARRFFESKTEKRKKQKISAKKKILKRLYMLRRYESRL  87386
+
+
+> Hpfe061_NODE_1186_length_257_cov_1.027778
+Length=257
+
+ Score = 95.1 bits (235),  Expect = 8e-27, Method: Compositional matrix adjust.
+ Identities = 63/68 (93%), Positives = 67/68 (99%), Gaps = 0/68 (0%)
+ Frame = -3
+
+Query  3    GIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKTEkrkkqkisakkkvlkRLYMLRRYESRL  70
+            GIKVREGDAFDEAYRR KKQTDRNLVVTECRARRFFESK+EKRKKQKISAKKK+LKR+YMLRRYESR+
+Sbjct  255  GIKVREGDAFDEAYRRVKKQTDRNLVVTECRARRFFESKSEKRKKQKISAKKKILKRVYMLRRYESRV  52
+
+
+> Hpfe028_NODE_1425_length_237_cov_0.912500
+Length=237
+
+ Score = 40.0 bits (92),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 20/41 (49%), Positives = 26/41 (63%), Gaps = 0/41 (0%)
+ Frame = -2
+
+Query  2    PGIKVREGDAFDEAYRRFKKQTDRNLVVTECRARRFFESKT  42
+            P IKVRE + FD A RRFK+  ++  V+ E R R F+E  T
+Sbjct  194  PVIKVRENEPFDVALRRFKRSCEKAGVLAEVRRREFYEKPT  72
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.140    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2282357043
+
+
+  Database: User specified sequence set (Input: ../spades/strain104.fa).
+    Posted date:  Unknown
+  Number of letters in database: 271,236,917
+  Number of sequences in database:  285,618
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
